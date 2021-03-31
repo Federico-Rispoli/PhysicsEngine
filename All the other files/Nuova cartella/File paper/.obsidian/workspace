@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "6f81df6b8fbf7b15",
+    "type": "split",
+    "children": [
+      {
+        "id": "52842b780b1258ff",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "0bfcfb38216fde24",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f5874d0b0a3057fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd75068534f90989",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31f8848bec5f9292",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f9e8d85ee5aab66",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a35cd8256afc1ba6",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0e5c05a6ab684af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05a8b6aaa27bfd32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
